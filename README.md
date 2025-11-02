@@ -21,7 +21,7 @@ Analysis of Brazilian e-commerce data to derive 5 key business insights around p
 
 ### Installation
 Clone repository
-git clone https://github.com/YOUR_USERNAME/olist-ecommerce-analysis.git
+git clone https://github.com/TanmayGupta17/olist-ecommerce-analysis.git
 cd olist-ecommerce-analysis
 
 Install dependencies
