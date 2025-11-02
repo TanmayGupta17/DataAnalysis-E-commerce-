@@ -21,7 +21,7 @@ Analysis of Brazilian e-commerce data to derive 5 key business insights around p
 
 ### Installation
 Clone repository
-git clone https://github.com/TanmayGupta17/olist-ecommerce-analysis.git
+git clone https://github.com/TanmayGupta17/DataAnalysis-Ecommerce-.git
 cd olist-ecommerce-analysis
 
 Install dependencies
@@ -42,3 +42,9 @@ Run Analysis
 3. **Geographic Hotspots:** São Paulo accounts for 40% of orders but has delivery challenges
 4. **Seasonal Trends:** November shows 2x revenue spike (Black Friday effect)
 5. **Seller Performance:** Top 5% of sellers drive 60% of total revenue
+
+
+## 🛠️ Tools & Technologies
+- **Python:** pandas, numpy, matplotlib, seaborn
+- **Jupyter Notebook**
+- **Kaggle Platform**
